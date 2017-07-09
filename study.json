@@ -1,0 +1,10 @@
+{
+  "name": "study-estviz",
+  "author": "eosg",
+  "tags": [],
+  "scripts": {
+    "start": "kyso docker start"
+  },
+  "metadata": {},
+  "_version": "4d5fbc2b8dd48ee27750f6fdf0ee5260d3f7671a"
+}
